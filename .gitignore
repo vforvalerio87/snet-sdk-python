@@ -1,9 +1,12 @@
 venv/
-build/
-dist/
+snet_sdk/build/
+snet_sdk/dist/
+snet_common_utils/build/
+snet_common_utils/dist/
 .idea
-snet_sdk.egg-info/
+snet_sdk/snet_sdk.egg-info/
+snet_common_utils/snet_sdk.egg-info/
 blockchain/node_modules/
 __pycache__
-snet_sdk/resources/contracts/abi
-snet_sdk/resources/contracts/networks
+snet_common_utils/snet_common_utils/resources/contracts/abi
+snet_common_utils/snet_common_utils/resources/contracts/networks
